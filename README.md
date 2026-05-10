@@ -7,6 +7,5 @@
 - [Twitter](https://twitter.com/The_Eris_Co)
 
 ### Stats:
-[![Eris' github stats](https://github-readme-stats.vercel.app/api?username=EmpathyYT&show_icons=true&theme=cobalt)](https://github.com/EmpathyYT/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmpathyYT&langs_count=8&layout=compact)](https://github.com/EmpathyYT/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmpathyYTYT)](https://github.com/anuraghazra/github-readme-stats)
 
