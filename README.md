@@ -7,5 +7,5 @@
 - [Twitter](https://twitter.com/The_Eris_Co)
 
 ### Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmpathyYTYT)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmpathyYT)](https://github.com/anuraghazra/github-readme-stats)
 
