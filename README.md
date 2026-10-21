@@ -7,7 +7,7 @@ We are a Muslim team, we strive to give a comfortable experience for all people 
 Our first project is Rihla, a Jordanian ride sharing application that university students use to get from their houses to their universities. For the future we plan on releasing optimized games while continuing to improve Rihla and providing comfortable rides.
 
 ### Check Out Our Platforms:
-(arkanlabs.dev)[https://arkanlabs.dev/]
+- [arkanlabs.dev](https://arkanlabs.dev/)
 
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmpathyYT&show_icons=true)
