@@ -10,5 +10,5 @@ Our first project is Rihla, a Jordanian ride sharing application that university
 - [arkanlabs.dev](https://arkanlabs.dev/)
 
 ### Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmpathyYT&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkanLabsTeam&show_icons=true)
 
